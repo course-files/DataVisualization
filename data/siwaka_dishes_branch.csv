@@ -1,4 +1,4 @@
-branchCode,phone,addressLine1,addressLine2,postalCode,county,subCounty
+branch_branchCode,branch_phone,branch_addressLine1,branch_addressLine2,branch_postalCode,branch_county,branch_subCounty
 1,0700000001,Westlands Commercial Centre,"Ring Road, Westlands",00100,Nairobi,Westlands
 2,0700000002,Yaya Centre,Argwings Kodhek Rd,00100,Nairobi,Kilimani
 3,0700000003,Thika Road Mall,Thika Road,00100,Nairobi,Kasarani
